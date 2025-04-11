@@ -1,1 +1,1 @@
-# llm-text-integration
+# TextSyn
