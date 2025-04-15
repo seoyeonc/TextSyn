@@ -1,0 +1,10 @@
+type,count,Source,DataType,col,Setting
+ENFJ,1,Kaggle,Train,0,Real
+ENFJ,40,Kaggle,Train,0,Real
+ENFJ,30,Kaggle,Test,0,Real
+ENFJ,1,Kaggle,Train,0,Synthetic
+ENFJ,40,ChatGPT,Train,1,Synthetic
+ENFJ,30,Kaggle,Test,0,Synthetic
+ENFJ,1,Kaggle,Train,0,Real+Synthetic
+ENFJ,40,ChatGPT,Train,1,Real+Synthetic
+ENFJ,30,Kaggle,Test,0,Real+Synthetic
