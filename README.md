@@ -4,8 +4,6 @@
 
 This repository contains the code and experimental setup for the research paper  
 **"Synthetic Text as Data: On Usefulness and Limitations."**  
-The study explores how GPT-generated text can be used as synthetic data to improve classification performance under data scarcity and imbalance scenarios.
-
 ---
 
 ## Files
